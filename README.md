@@ -43,11 +43,14 @@ Tasks and Deliverables
 Task One: Noting any simplifying assumptions you make, design a relational database schema
 capable of supporting the given business scenario and storing the data provided in
 the sample data file.
+
 Task Two: Write SQL code to implement your database design. You should save your code and
 use constraints, default values, ON DELETE clauses, etc as appropriate for the
 business scenario.
+
 Task Three: Implement your database using either SQL Server OR MySQL OR Azure Data Studio
 and populate it with the data provided in the sample data file. 
+
 Task Four: Create a Jupyter Notebook and connect it to your database. Develop SQL code to test
 that your database supports each of the Business Processes given in the previous
 section. Use the templates provided in labs to write Python code and combine it with
