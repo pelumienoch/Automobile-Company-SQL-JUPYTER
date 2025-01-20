@@ -11,7 +11,7 @@ than one service. Each service is performed by one or more mechanics with each m
 performing many services.
 
 Information to be held and manipulated include:
- the name, email address, phone number and id number of each customer.
+ the name (dummy names), email address, phone number and id number of each customer.
  the registration number, make, model and date of manufacture of each car.
  for each service, the service id, drop-off date and time, and description of work required. 
 The mileage of the car being serviced, and the date of the next service is also held.
