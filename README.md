@@ -53,5 +53,4 @@ and populate it with the data provided in the sample data file.
 
 Task Four: Create a Jupyter Notebook and connect it to your database. Develop SQL code to test
 that your database supports each of the Business Processes given in the previous
-section. Use the templates provided in labs to write Python code and combine it with
-the SQL code in the connected Jupyter Notebook.
+section.
